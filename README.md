@@ -4,6 +4,11 @@ Nama Proyek: Lets Go to Dive In!
 Deskripsi:  
 Proyek ini merupakan pengembangan dari backend_started dengan fitur tambahan berupa otentikasi JWT dan validasi input. Setiap endpoint telah dilengkapi dengan dokumentasi API menggunakan format JSON.  
 
+http://localhost:8080/users
+http://localhost:8080/products
+http://localhost:8080/transactions
+http://localhost:8080/payments
+
 Struktur Direktori:  
 - controllers: Berisi fungsi untuk menangani request endpoint dan otentikasi.  
 - middlewares: Berisi middleware untuk mengamankan API.  
